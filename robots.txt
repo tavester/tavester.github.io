@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tavester.github.io/sitemap.tavester.gz
+Sitemap: https://tavester.github.io/app/sitemap.tavester.gz
+Sitemap: https://tavester.github.io/assets/sitemap.tavester.gz
+Sitemap: https://tavester.github.io/css/sitemap.tavester.gz
+Sitemap: https://tavester.github.io/data/sitemap.tavester.gz
+Sitemap: https://tavester.github.io/includes/sitemap.tavester.gz
+Sitemap: https://tavester.github.io/item/sitemap.tavester.gz
+Sitemap: https://tavester.github.io/src/sitemap.tavester.gz
